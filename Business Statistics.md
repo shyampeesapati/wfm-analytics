@@ -24,5 +24,4 @@ Where:
 - $n$ = number of observations
 
 Use when: symmetric data
-  
 Avoid when: outliers present
