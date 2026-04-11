@@ -23,5 +23,5 @@ Where:
 - $\sum x_i$ = sum of all values  
 - $n$ = number of observations
 
-Use when: symmetric data  
+Use when: symmetric and ungrouped data  
 Avoid when: outliers present
