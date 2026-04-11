@@ -1,4 +1,5 @@
-**Introduction to Statistics and Data**
+**1. Introduction to Statistics and Data**
+
 Statistics is of two types, they are Descriptive Statistics & Inferential Statistics.  Descriptive Statistics is collecting, summarizing and describing data.  Inferential Statistics is Drawing conclusions and/or making decisions concerning a population based only on Sample data.  Inferential Statistics is of 2 types. They are Estimation and Hypothesis Testing.
 | Criteria | Issues | Remarks |
 |----------|----------|----------|
@@ -8,6 +9,16 @@ Statistics is of two types, they are Descriptive Statistics & Inferential Statis
 | Objective   | Why was the data collected   | Objective determines the relevance of data   |
 | Nature   | Definition of key variables, units of measurement, categories used and relationships examined   | Reconfigure the data to increase the usefulness   |
 | Dependability   | Expertise, credibility, reputation and trustworthiness of the source   | Data should be obtained from an original source   |
-**Types and Sources of Data, Population Vs Sample**
+
+**2. Types and Sources of Data, Population Vs Sample**
+
 Statistics is the branch of mathematics that transforms data into useful information for decision makers.
-Mean 
+ 
+**Mean**
+# $$\bar{x} = \frac{\sum x_i}{n}$$
+
+Mean = Sum of observations / Number of observations
+Where:
+- $\bar{x}$ = mean
+- $\sum x_i$ = sum of all values  
+- $n$ = number of observations
