@@ -8,4 +8,6 @@ Statistics is of two types, they are Descriptive Statistics & Inferential Statis
 | Objective   | Why was the data collected   | Objective determines the relevance of data   |
 | Nature   | Definition of key variables, units of measurement, categories used and relationships examined   | Reconfigure the data to increase the usefulness   |
 | Dependability   | Expertise, credibility, reputation and trustworthiness of the source   | Data should be obtained from an original source   |
-
+**Types and Sources of Data, Population Vs Sample**
+Statistics is the branch of mathematics that transforms data into useful information for decision makers.
+Mean 
