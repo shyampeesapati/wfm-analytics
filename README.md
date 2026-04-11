@@ -1,7 +1,7 @@
 # wfm-analytics
 # WFM Analytics Portfolio
 
-This repository contains my work in Workforce Management, Forecasting, and Analytics.
+This repository contains some of my work in Workforce Management, Forecasting, and Analytics.
 
 Focus areas:
 - Contact Center Forecasting (Excel → Python)
